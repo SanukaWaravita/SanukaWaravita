@@ -1,6 +1,4 @@
 # 💫 About Me:
-👋 Hey there! I'm Sanuka<br>I'm a Computer Science student from Sri Lanka 🇱🇰 with a passion for exploring technology and building cool things with code.<br><br>💻 What I Do<br>Currently, I'm learning a mix of programming languages and technologies including Python, Java, C#, and web development with HTML, CSS, and JavaScript.<br>I'm also diving into the .NET ecosystem as I explore more with C#.<br><br>🌱 Currently Learning<br>Improving my skills in software development, database systems, and web technologies. No major public projects yet—but stay tuned!<br><br>🎯 Goals<br>Just enjoying the journey of learning for now. Looking forward to building projects and collaborating with others in the near future.<br><br>✨ Fun Fact<br>I solve bugs with logic... and a little bit of caffeine ☕<br><br>📬 Let’s Connect!<br>Feel free to explore my repos and reach out if you like what you see. I'm always open to feedback, learning, and tech conversations.
-
 | 💻 What I Do |
 |--------------|
 | Currently, I'm learning a mix of programming languages and technologies including Python, Java, C#, and web development with HTML, CSS, and JavaScript. I'm also diving into the .NET ecosystem as I explore more with C#. |
