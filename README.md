@@ -13,6 +13,18 @@
 |-------------------|
 | Feel free to explore my repos and reach out if you like what you see. I'm always open to feedback, learning, and tech conversations. |
 
+| 💻 What I Do |
+|--------------|
+| Currently, I'm learning a mix of programming languages and technologies including Python, Java, C#, and web development with HTML, CSS, and JavaScript. I'm also diving into the .NET ecosystem as I explore more with C#. |
+
+| 🌱 Currently Learning                                 | 🎯 Goals                                                 | ✨ Fun Fact                                |
+|:----------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------:|
+| Improving my skills in software development, database systems, and web technologies. No major public projects yet—but stay tuned! | Just enjoying the journey of learning for now. Looking forward to building projects and collaborating with others in the near future. | I solve bugs with logic... and a little bit of caffeine ☕ |
+
+| 📬 Let’s Connect! |
+|-------------------|
+| Feel free to explore my repos and reach out if you like what you see. I'm always open to feedback, learning, and tech conversations. |
+
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanuka.s.waravita) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanuka.s.waravita@gmail.com) 
