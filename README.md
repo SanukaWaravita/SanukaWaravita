@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,001a33&height=220&section=header&text=SANUKA%20WARAVITA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Computer%20Science%20Undergraduate&descSize=14&descAlignY=58&descColor=3388ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0052cc,001a33&height=220&section=header&text=SANUKA%20WARAVITA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Computer%20Science%20Undergraduate&descSize=14&descAlignY=58&descColor=66b2ff" width="100%"/>
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="52%">
 
 ### `▸ ABOUT ME`
 
@@ -47,16 +47,16 @@ class SoftwareEngineer {
       "Full-stack development",
       "Engineering platforms",
       "SaaS products",
-      "Cloud-powered software systems"
+      "Cloud systems"
     ];
     this.projects = ["GTLink", "GeoTrax", "UtilityTrack", "PetCare"];
   }
 
   currentWork() {
     return [
-      "Building geotechnical engineering workflows",
-      "Designing operational tracking platforms",
-      "Developing SaaS for veterinary and pet-owner workflows"
+      "Geotechnical workflows",
+      "Operational tracking",
+      "Veterinary SaaS workflows"
     ];
   }
 
@@ -71,7 +71,7 @@ class SoftwareEngineer {
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=3388ff)](https://github.com/SanukaWaravita)
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="48%">
 
 ### `▸ TECH STACK`
 
@@ -85,11 +85,26 @@ const techStack = {
     "HTML",
     "CSS"
   ],
-  frontend: ["React"],
-  backend: [".NET", "Firebase"],
-  cloud: ["AWS"],
-  databases: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "GitHub", "Linux", "VS Code"]
+  frontend: [
+    "React"
+  ],
+  backend: [
+    ".NET",
+    "Firebase"
+  ],
+  cloud: [
+    "AWS"
+  ],
+  databases: [
+    "MySQL",
+    "PostgreSQL"
+  ],
+  tools: [
+    "Git",
+    "GitHub",
+    "Linux",
+    "VS Code"
+  ]
 };
 ```
 
@@ -206,7 +221,7 @@ Building a SaaS platform focused on veterinary workflows, pet health records, an
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,001a33,0d0d0d&height=120&section=footer&text=Build%20%E2%80%A2%20Deploy%20%E2%80%A2%20Scale&fontSize=16&fontColor=3388ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,001a33,0052cc&height=120&section=footer&text=Build%20%E2%80%A2%20Deploy%20%E2%80%A2%20Scale&fontSize=16&fontColor=66b2ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
