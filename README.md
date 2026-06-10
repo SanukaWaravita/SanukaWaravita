@@ -1,83 +1,255 @@
+<!-- ============================================================ -->
+<!--   SANUKA WARAVITA - GITHUB PROFILE README                    -->
+<!--   Design: Minimal Tokyo x Crimson Engineering                -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-# 👋 Hi, I'm Sanuka Waravita
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,1a0000&height=220&section=header&text=SANUKA%20WARAVITA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Computer%20Science%20Undergraduate&descSize=14&descAlignY=58&descColor=ff3333" width="100%"/>
 
-### Software Engineer • Full-Stack Developer • Computer Science Undergraduate
+</div>
 
-Building engineering platforms, SaaS products, and cloud-powered software systems.
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=700&color=FF3333&center=true&vCenter=true&width=720&lines=Building+engineering+platforms;Shipping+SaaS+products;Designing+cloud-powered+software+systems;Full-stack+development+with+React+%2B+.NET;Build+%E2%80%A2+Deploy+%E2%80%A2+Scale" alt="Typing SVG"/>
 
-<a href="mailto:sanuka.s.waravita@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br/><br/>
 
-<a href="https://instagram.com/sanuka.s.waravita">
-  <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+![Focus](https://img.shields.io/badge/FOCUS-FULL_STACK_ENGINEERING-ff3333?style=flat-square&logoColor=white)
+&nbsp;
+![Role](https://img.shields.io/badge/SOFTWARE_ENGINEER-111111?style=flat-square&logo=github&logoColor=ff3333)
+&nbsp;
+![Student](https://img.shields.io/badge/CS_UNDERGRADUATE-111111?style=flat-square&logo=academia&logoColor=ff3333)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=SanukaWaravita&label=PROFILE+VIEWS&color=ff3333&style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 Featured Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
 
-### GTLink
+<br/>
+
+<table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="58%">
+
+### `▸ ABOUT ME`
+
+```javascript
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Sanuka Waravita";
+    this.role = "Software Engineer";
+    this.education = "Computer Science Undergraduate";
+    this.focus = [
+      "Full-stack development",
+      "Engineering platforms",
+      "SaaS products",
+      "Cloud-powered software systems"
+    ];
+    this.projects = ["GTLink", "GeoTrax", "UtilityTrack", "PetCare"];
+  }
+
+  currentWork() {
+    return [
+      "Building geotechnical engineering workflows",
+      "Designing operational tracking platforms",
+      "Developing SaaS for veterinary and pet-owner workflows"
+    ];
+  }
+
+  philosophy() {
+    return "Build. Deploy. Scale.";
+  }
+}
+```
+
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=ff3333)](mailto:sanuka.s.waravita@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=ff3333)](https://instagram.com/sanuka.s.waravita)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/SanukaWaravita)
+
+</td>
+<td valign="top" width="42%" align="center">
+
+### `▸ AT A GLANCE`
+
+<br/>
+
+```text
+┌─────────────────────────────┐
+│                             │
+│   4+   Featured Projects    │
+│                             │
+│   CS   Undergraduate        │
+│                             │
+│   SaaS Product Builder      │
+│                             │
+│   Cloud-Powered Systems     │
+│                             │
+│   Build · Deploy · Scale    │
+│                             │
+└─────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
+
+<br/>
+
+### <div align="center">`▸ TECH STACK`</div>
+
+<br/>
+
+<div align="center">
+
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ff3333)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ff3333)
+![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=ff3333)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ff3333)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ff3333)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ff3333)
+
+<br/>
+
+**Frontend & Backend**<br/>
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=ff3333)
+![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=ff3333)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=ff3333)
+
+<br/>
+
+**Cloud · Database · Tools**<br/>
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=ff3333)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=ff3333)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ff3333)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff3333)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ff3333)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=ff3333)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=ff3333)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
+
+<br/>
+
+### <div align="center">`▸ FEATURED WORK`</div>
+
+<br/>
+
+<table border="0" align="center" width="95%" cellspacing="8" cellpadding="0">
+
+<tr>
+<td valign="top" width="50%">
+
+**`01 ·` GTLink**<br/>
+![Engineering](https://img.shields.io/badge/Engineering_Platform-111111?style=flat-square&logoColor=ff3333)
+![PDF](https://img.shields.io/badge/PDF_Generation-111111?style=flat-square&logo=adobeacrobatreader&logoColor=ff3333)
+![Workflow](https://img.shields.io/badge/Workflows-111111?style=flat-square&logo=githubactions&logoColor=ff3333)
 
 Geotechnical engineering platform for project management, borehole logging, reporting, PDF generation, and engineering workflows.
 
-### GeoTrax
+</td>
+<td valign="top" width="50%">
+
+**`02 ·` GeoTrax**<br/>
+![Operations](https://img.shields.io/badge/Operations-111111?style=flat-square&logo=googlecloud&logoColor=ff3333)
+![Tracking](https://img.shields.io/badge/Project_Tracking-111111?style=flat-square&logo=trello&logoColor=ff3333)
+![Verification](https://img.shields.io/badge/Verification-111111?style=flat-square&logo=checkmarx&logoColor=ff3333)
 
 Operational platform supporting vendors, builders, assignments, verification workflows, and project tracking.
 
-### UtilityTrack
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="top" width="50%">
+
+**`03 ·` UtilityTrack**<br/>
+![Utility](https://img.shields.io/badge/Utility_Management-111111?style=flat-square&logo=datadog&logoColor=ff3333)
+![Operations](https://img.shields.io/badge/Operational_Tracking-111111?style=flat-square&logo=gitbook&logoColor=ff3333)
 
 Utility management and operational tracking platform.
 
-### PetCare *(In Development)*
+</td>
+<td valign="top" width="50%">
+
+**`04 ·` PetCare**<br/>
+![SaaS](https://img.shields.io/badge/SaaS-111111?style=flat-square&logo=vercel&logoColor=ff3333)
+![In Development](https://img.shields.io/badge/In_Development-ff3333?style=flat-square&logoColor=white)
+![Records](https://img.shields.io/badge/Health_Records-111111?style=flat-square&logo=readme&logoColor=ff3333)
 
 Building a SaaS platform focused on veterinary workflows, pet health records, and pet-owner management.
 
----
+</td>
+</tr>
 
-## 🛠 Technology Stack
+</table>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css,react,dotnet,firebase,aws,mysql,postgresql,git,github,linux,vscode" />
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
 
-## 📈 GitHub Analytics
+<br/>
 
-<div align="center">
+### <div align="center">`▸ GITHUB STATS`</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanukaWaravita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SanukaWaravita&theme=tokyonight&hide_border=true"/>
-
-</div>
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanukaWaravita&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SanukaWaravita&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanukaWaravita&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&langs_count=6" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanukaWaravita&hide_border=true&background=0d0d0d&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666&stroke=ff3333" height="165" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanukaWaravita&theme=react-dark&bg_color=0d0d0d&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY" width="95%" alt="Activity Graph"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
+
+<br/>
+
+### <div align="center">`▸ CONTRIBUTION ACTIVITY`</div>
+
+<br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanukaWaravita/SanukaWaravita/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanukaWaravita/SanukaWaravita/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SanukaWaravita/SanukaWaravita/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SanukaWaravita/SanukaWaravita/output/github-snake.svg" width="95%" />
 </picture>
 
----
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a0000,0d0d0d&height=120&section=footer&text=Build%20%E2%80%A2%20Deploy%20%E2%80%A2%20Scale&fontSize=16&fontColor=ff3333&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-### Build • Deploy • Scale
+### `Software Engineer · Full-Stack Developer · Computer Science Undergraduate`
 
 </div>
