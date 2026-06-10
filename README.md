@@ -33,7 +33,7 @@
 
 <table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="100%">
 
 ### `▸ ABOUT ME`
 
@@ -69,29 +69,6 @@ class SoftwareEngineer {
 [![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=ff3333)](mailto:sanuka.s.waravita@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=ff3333)](https://instagram.com/sanuka.s.waravita)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/SanukaWaravita)
-
-</td>
-<td valign="top" width="42%" align="center">
-
-### `▸ AT A GLANCE`
-
-<br/>
-
-```text
-┌─────────────────────────────┐
-│                             │
-│   4+   Featured Projects    │
-│                             │
-│   CS   Undergraduate        │
-│                             │
-│   SaaS Product Builder      │
-│                             │
-│   Cloud-Powered Systems     │
-│                             │
-│   Build · Deploy · Scale    │
-│                             │
-└─────────────────────────────┘
-```
 
 </td>
 </tr>
