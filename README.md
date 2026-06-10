@@ -33,7 +33,7 @@
 
 <table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="58%">
 
 ### `▸ ABOUT ME`
 
@@ -71,22 +71,9 @@ class SoftwareEngineer {
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ff3333)](https://github.com/SanukaWaravita)
 
 </td>
-</tr>
-</table>
+<td valign="top" width="42%">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2&section=header" width="100%"/>
-
-<br/>
-
-### <div align="center">`▸ TECH STACK`</div>
-
-<br/>
-
-<table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="100%">
+### `▸ TECH STACK`
 
 ```javascript
 const techStack = {
@@ -98,24 +85,11 @@ const techStack = {
     "HTML",
     "CSS"
   ],
-  frontend: [
-    "React"
-  ],
-  backend: [
-    ".NET",
-    "Firebase"
-  ],
-  cloudAndDatabases: [
-    "AWS",
-    "MySQL",
-    "PostgreSQL"
-  ],
-  tools: [
-    "Git",
-    "GitHub",
-    "Linux",
-    "VS Code"
-  ]
+  frontend: ["React"],
+  backend: [".NET", "Firebase"],
+  cloud: ["AWS"],
+  databases: ["MySQL", "PostgreSQL"],
+  tools: ["Git", "GitHub", "Linux", "VS Code"]
 };
 ```
 
