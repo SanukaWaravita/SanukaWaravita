@@ -1,118 +1,72 @@
 <div align="center">
 
-# Sanuka Waravita
+# 👋 Hi, I'm Sanuka Waravita
 
 ### Software Engineer • Full-Stack Developer • Computer Science Undergraduate
 
-Building software, cloud solutions, engineering platforms, and digital products.
+Building engineering platforms, SaaS products, and cloud-powered software systems.
 
 <br>
 
 <a href="mailto:sanuka.s.waravita@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/sanuka.s.waravita">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About
-
-Computer Science undergraduate with a strong interest in software engineering, cloud infrastructure, system design, and product development.
-
-Currently building and maintaining production software platforms while exploring scalable architectures, cloud technologies, and AI-assisted development workflows.
-
-I enjoy transforming ideas into practical software that solves real-world problems.
-
----
-
-## Current Focus
-
-* Building and maintaining GTLink & GeoTrax engineering platforms
-* Exploring AWS cloud architecture and deployment strategies
-* Designing scalable software systems and workflows
-* Developing SaaS products and internal business tools
-* Leveraging AI-assisted engineering workflows
-
----
-
-## Featured Projects
+## 🚀 Featured Work
 
 ### GTLink
 
-A geotechnical engineering platform supporting project management, borehole logging, engineering reporting, PDF generation, and field operations.
+Geotechnical engineering platform for project management, borehole logging, reporting, PDF generation, and engineering workflows.
 
 ### GeoTrax
 
-An operational platform supporting builders, vendors, verification workflows, project assignments, announcements, and tracking systems.
+Operational platform supporting vendors, builders, assignments, verification workflows, and project tracking.
 
 ### UtilityTrack
 
-A utility management and operational tracking platform.
+Utility management and operational tracking platform.
 
-### PetCare *(In Planning)*
+### PetCare *(In Development)*
 
-A SaaS platform focused on veterinary workflows, pet health records, and digital pet management.
+Building a SaaS platform focused on veterinary workflows, pet health records, and pet-owner management.
 
 ---
 
-## Tech Stack
+## 🛠 Technology Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cs,js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Backend & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,firebase,aws" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css,react,dotnet,firebase,aws,mysql,postgresql,git,github,linux,vscode" />
 </p>
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SanukaWaravita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanukaWaravita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SanukaWaravita&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SanukaWaravita&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanukaWaravita&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanukaWaravita&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanukaWaravita/SanukaWaravita/output/github-snake-dark.svg" />
@@ -122,20 +76,8 @@ A SaaS platform focused on veterinary workflows, pet health records, and digital
 
 ---
 
-## Currently Exploring
-
-* System Design
-* Software Architecture
-* Cloud Infrastructure
-* AWS Services
-* DevOps
-* Distributed Systems
-* AI-Assisted Development
-
----
-
 <div align="center">
 
-### Build. Deploy. Improve. Repeat.
+### Build • Deploy • Scale
 
 </div>
