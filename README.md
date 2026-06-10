@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0052cc,001a33&height=220&section=header&text=SANUKA%20WARAVITA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Computer%20Science%20Undergraduate&descSize=14&descAlignY=58&descColor=66b2ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=220&section=header&text=SANUKA%20WARAVITA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Computer%20Science%20Undergraduate&descSize=14&descAlignY=58&descColor=ffffff" width="100%"/>
 
 </div>
 
