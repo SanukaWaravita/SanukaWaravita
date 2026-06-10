@@ -84,35 +84,44 @@ class SoftwareEngineer {
 
 <br/>
 
-<div align="center">
+<table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="100%">
 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ff3333)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ff3333)
-![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=ff3333)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ff3333)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ff3333)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ff3333)
+```javascript
+const techStack = {
+  languages: [
+    "Python",
+    "Java",
+    "C#",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  frontend: [
+    "React"
+  ],
+  backend: [
+    ".NET",
+    "Firebase"
+  ],
+  cloudAndDatabases: [
+    "AWS",
+    "MySQL",
+    "PostgreSQL"
+  ],
+  tools: [
+    "Git",
+    "GitHub",
+    "Linux",
+    "VS Code"
+  ]
+};
+```
 
-<br/>
-
-**Frontend & Backend**<br/>
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=ff3333)
-![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=ff3333)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=ff3333)
-
-<br/>
-
-**Cloud · Database · Tools**<br/>
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=ff3333)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=ff3333)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ff3333)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff3333)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ff3333)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=ff3333)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=ff3333)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
